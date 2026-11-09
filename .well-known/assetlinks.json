@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.moretz95.bday_app",
+      "sha256_cert_fingerprints": [
+        "1F:2A:5B:C7:08:52:4A:2B:9F:43:D4:38:80:5A:33:BF:75:AF:DC:3D:29:5E:EF:96:BF:A3:33:77:24:3F:C1:E5",
+        "D0:11:76:EF:65:80:9B:A8:C9:58:43:E9:5F:82:7B:2A:B9:6C:80:ED:31:20:BF:EE:9A:50:EF:47:18:B4:43:93"
+      ]
+    }
+  }
+]
