@@ -1,0 +1,44 @@
+[
+  {
+    "verso": "His palms are sweaty, knees weak, arms are heavy\nThere's vomit on his sweater already, _'s _",
+    "risposta": ["mom", "spaghetti"],
+    "canzone": "Lose Yourself",
+    "artista": "Eminem"
+  },
+  {
+    "verso": "C'è il vitello con i piedi di _, il vitello con i piedi di _\nE indovina chi c'è? C'è pure il vitello coi piedi di _",
+    "risposta": ["balsa", "spugna", "cobalto"],
+    "canzone": "Il vitello dai piedi di balsa",
+    "artista": "Elio e le Storie Tese"
+  },
+  {
+    "verso": "'Cause all you ever do is chant the same old _",
+    "risposta": ["mantra"],
+    "canzone": "Mantra",
+    "artista": "Bring Me the Horizon"
+  },
+  {
+    "verso": "Quando il sol la neve indora\n_ _ _ _ _ _?",
+    "risposta": ["Ma", "te", "par", "che", "ta", "sbora"],
+    "canzone": "Ghe Sboro",
+    "artista": "Rumatera"
+  },
+  {
+    "verso": "Put your\npinky\nrings up\nto the\n_",
+    "risposta": ["moon"],
+    "canzone": "24K Magic",
+    "artista": "Bruno Mars"
+  },
+  {
+    "verso": "Chairod bin juatchu guan michubi\nFiling sa feifer lasander da _",
+    "risposta": ["serfes"],
+    "canzone": "Numb",
+    "artista": "Tongo"
+  },
+  {
+    "verso": "_, _ perché sei caduto in un _?",
+    "risposta": ["Manuto", "Manuto","imbuto"],
+    "canzone": "Manuto",
+    "artista": "Mc Fierli"
+  }
+]

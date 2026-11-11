@@ -1,0 +1,39 @@
+{
+  "colori": {
+    "arancione": "#FF9100",
+    "argento": "#CFD8DC",
+    "azzurro": "#00E5FF",
+    "bianco": "#FFFFFF",
+    "blu": "#2979FF",
+    "giallo": "#FFEA00",
+    "magenta": "#F000B8",
+    "nero": "#212121",
+    "rosa": "#FF4FA3",
+    "rosso": "#FF1744",
+    "verde": "#00E676",
+    "viola": "#AA00FF"
+  },
+  "lucchetti": {
+    "codice": ["argento", "azzurro", "bianco", "blu", "giallo", "nero", "rosa", "rosso", "verde"],
+    "chiave": ["arancione", "azzurro", "blu", "giallo", "magenta", "nero", "rosa", "rosso", "verde", "viola"]
+  },
+  "prove": {
+    "drum": { "chiave": "rosso" },
+    "true_crime": { "codice": "nero" },
+    "emoji_canzoni": { "chiave": "giallo" },
+    "emoji_artisti": { "chiave": "azzurro" },
+    "sarabanda": { "chiave": "blu" },
+    "somma": { "codice": "bianco" },
+    "nota": { "chiave": "rosa" },
+    "completa": { "chiave": "viola" },
+    "reversed": { "chiave": "arancione" },
+    "anni": {
+      "codice": {
+        "A": "verde",
+        "B": "rosso",
+        "C": "blu",
+        "D": "giallo"
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "file": "Waka Waka - Shakira.mp3",
+    "titolo": "Waka Waka",
+    "artista": "Shakira",
+    "anno": 2010,
+    "inizio": 0,
+    "lucchetto": "D"
+  },
+  {
+    "file": "Gangnam Style - PSY.mp3",
+    "titolo": "Gangnam Style",
+    "artista": "PSY",
+    "anno": 2012,
+    "inizio": 0,
+    "lucchetto": "B"
+  },
+  {
+    "file": "I'm A Believer - Smash Mouth.mp3",
+    "titolo": "I'm A Believer",
+    "artista": "Smash Mouth",
+    "anno": 2001,
+    "inizio": 0,
+    "lucchetto": "C"
+  },
+  {
+    "file": "Shape of You - Ed Sheeran.mp3",
+    "titolo": "Shape of You",
+    "artista": "Ed Sheeran",
+    "anno": 2017,
+    "inizio": 0,
+    "lucchetto": "B"
+  },
+  {
+    "file": "Hollaback Girl - Gwen Stefani.mp3",
+    "titolo": "Hollaback Girl",
+    "artista": "Gwen Stefani",
+    "anno": 2005,
+    "inizio": 0,
+    "lucchetto": "B"
+  },
+  {
+    "file": "Bad Guy - Billie Eilish.mp3",
+    "titolo": "Bad Guy",
+    "artista": "Billie Eilish",
+    "anno": 2019,
+    "inizio": 0,
+    "lucchetto": "D"
+  },
+  {
+    "file": "Yeah! - Usher.mp3",
+    "titolo": "Yeah!",
+    "artista": "Usher",
+    "anno": 2004,
+    "inizio": 0,
+    "lucchetto": "A"
+  },
+  {
+    "file": "Get Lucky - Daft Punk ft. Pharrell Williams.mp3",
+    "titolo": "Get Lucky",
+    "artista": "Daft Punk ft. Pharrell Williams",
+    "anno": 2013,
+    "inizio": 0,
+    "lucchetto": "C"
+  },
+  {
+    "file": "I Gotta Feeling - The Black Eyed Peas.mp3",
+    "titolo": "I Gotta Feeling",
+    "artista": "The Black Eyed Peas",
+    "anno": 2009,
+    "inizio": 0,
+    "lucchetto": "C"
+  },
+  {
+    "file": "Toxic - Britney Spears.mp3",
+    "titolo": "Toxic",
+    "artista": "Britney Spears",
+    "anno": 2003,
+    "inizio": 0,
+    "lucchetto": "D"
+  },
+  {
+    "file": "Hello - Adele.mp3",
+    "titolo": "Hello",
+    "artista": "Adele",
+    "anno": 2015,
+    "inizio": 0,
+    "lucchetto": "A"
+  },
+  {
+    "file": "Umbrella - Rihanna.mp3",
+    "titolo": "Umbrella",
+    "artista": "Rihanna",
+    "anno": 2007,
+    "inizio": 0,
+    "lucchetto": "A"
+  }
+]
