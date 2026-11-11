@@ -30,7 +30,7 @@
     // Seen only when the link opens in the browser instead of the app: the
     // button hands the same link to the app.
     const path = location.pathname;
-    if (path.startsWith('/q/')) {
+    if (path === '/finale' || path === '/finale/') {
       document.getElementById('open').href =
         'intent://' + location.host + path +
         '#Intent;scheme=https;package=com.moretz95.bday_app;end';
